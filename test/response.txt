@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "cookie": {
+        "name": "datadome",
+        "value": "00w8auv1ILBVItNAUbtLDZz7HbA9P9hRQcJrYMxK1n~lZv6p3OHOjvGrkAoExcMP507J67QCv_2b1hxo_OLSglHYIvO6EwkPzxJHF7CH47obeFu2t5YXyFrgIaDretVq",
+        "domain": ".decolar.com",
+        "path": "/",
+        "expires": 1751129542.27398,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "url": "https://www.decolar.com/shop/flights/results/roundtrip/BHZ/SAO/2024-07-23/2024-07-27/1/0/0?from=SB&di=1",
+    "proxy": null
+}
