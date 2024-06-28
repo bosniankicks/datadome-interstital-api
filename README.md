@@ -1,9 +1,11 @@
 # Datadome Interstitial API Python
 
 ## How It Works
-    - Based off a post request in python, the user can choose to send a proxy (if not running localhost) and the URL for the cookie wanted. In return the scripts will send the user the response data including the useragent,proxy,url, and the cookie of the solve within 3-5 seconds.
+    - Based off a post request in python, the user can choose to send a proxy (if not running localhost) and the URL for the cookie wanted. 
+    - In return the scripts will send the user the response data including the useragent,proxy,url, and the cookie of the solve within 3-5 seconds.
 ## Why
-    - I recently dropped a CloudFlare API, and wanted to replicate the idea for Datadome. although reversal gens are extremely quicker, I wanted to have something for others to use for free :)
+    - I recently dropped a CloudFlare API, and wanted to replicate the idea for Datadome
+    - Although reversal gens are extremely quicker, I wanted to have something for others to use for free :)
 
 
 ## Usage
