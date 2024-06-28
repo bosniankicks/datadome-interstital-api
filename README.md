@@ -12,6 +12,7 @@
     Run server.py to start the flask server
     Run the test script to recieve the token
     The server will also log the responses to a txt for both the server end and client side info
+    THIS WILL NOT WORK FOR SITES THAT HAVE SLIDER ENABLED 
 
 ## Sites Used
     https://bounty-nodejs.datashield.co/
