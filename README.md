@@ -19,6 +19,6 @@
     https://www.decolar.com/shop/flights/results/roundtrip/BHZ/SAO/2024-07-23/2024-07-27/1/0/0?from=SB&di=1
 
 
-I AM NOT LIABLE FOR HOW THIS PRODUCT IS USED IN ANYWAY, NOR AM I GIVING ANY WARRANTY WITH MY CODE
+I AM NOT LIABLE FOR HOW THIS PRODUCT IS USED IN ANY WAY, NOR AM I GIVING ANY WARRANTY WITH MY CODE
 
 dm me on discord @pickumaternu for any questions :)
