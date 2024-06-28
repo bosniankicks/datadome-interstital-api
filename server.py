@@ -22,7 +22,7 @@ def get_dd():
         if proxy:
             cmd.append(proxy)
         
-        # Call the Playwright script using the current Python executable
+        
         result = subprocess.run(
             cmd,
             capture_output=True, text=True
