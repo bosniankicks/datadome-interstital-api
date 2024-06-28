@@ -22,3 +22,5 @@
 I AM NOT LIABLE FOR HOW THIS PRODUCT IS USED IN ANY WAY, NOR AM I GIVING ANY WARRANTY WITH MY CODE
 
 dm me on discord @pickumaternu for any questions :)
+
+https://www.youtube.com/watch?v=G-GWnqN_oUg ako citas ovo mars u picku maternu
