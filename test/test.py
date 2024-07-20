@@ -14,4 +14,4 @@ if response.status_code == 200:
     formatted_response = json.dumps(response_json, indent=4)
     print(formatted_response)
 else:
-    print(f"Failed to get cf-clearance token: {response.text}")
+    print(f"Failed to get datadome token: {response.text}")
